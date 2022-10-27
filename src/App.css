@@ -1,6 +1,14 @@
-#App {
-    background-color: aquamarine;
-    padding: 5%;
-    width: 45%;
-    border-radius: 15px;
+.MuiPaper-elevation0 {
+    width: 37%;
+    padding: 30px;
+}
+
+#button {
+    margin-top: 15px;
+    margin-bottom:  15px;
+}
+
+#alert {
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
